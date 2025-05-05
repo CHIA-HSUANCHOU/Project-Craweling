@@ -4,7 +4,7 @@ Project: PTT Beauty Board Crawling in 2023/2024
 
 Author: CHOU CHIA HSUAN
 
-Date: 2024-05-05
+Date: 2025-05-05
 
 Course: Generative AI
 
